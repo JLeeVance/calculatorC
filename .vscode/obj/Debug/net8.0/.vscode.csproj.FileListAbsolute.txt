@@ -1,0 +1,15 @@
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/bin/Debug/net8.0/.vscode
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/bin/Debug/net8.0/.vscode.deps.json
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/bin/Debug/net8.0/.vscode.runtimeconfig.json
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/bin/Debug/net8.0/.vscode.dll
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/bin/Debug/net8.0/.vscode.pdb
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/.vscode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/.vscode.AssemblyInfoInputs.cache
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/.vscode.AssemblyInfo.cs
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/.vscode.csproj.CoreCompileInputs.cache
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/.vscode.sourcelink.json
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/.vscode.dll
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/refint/.vscode.dll
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/.vscode.pdb
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/.vscode.genruntimeconfig.cache
+/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/Debug/net8.0/ref/.vscode.dll

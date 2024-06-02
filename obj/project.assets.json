@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jvance/Development/code/CSharp/calculatorC/.vscode/.vscode.csproj",
+      "projectUniqueName": "/Users/jvance/Development/code/CSharp/calculatorC/.vscode.csproj",
       "projectName": ".vscode",
-      "projectPath": "/Users/jvance/Development/code/CSharp/calculatorC/.vscode/.vscode.csproj",
+      "projectPath": "/Users/jvance/Development/code/CSharp/calculatorC/.vscode.csproj",
       "packagesPath": "/Users/jvance/.nuget/packages/",
-      "outputPath": "/Users/jvance/Development/code/CSharp/calculatorC/.vscode/obj/",
+      "outputPath": "/Users/jvance/Development/code/CSharp/calculatorC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jvance/.nuget/NuGet/NuGet.Config"
